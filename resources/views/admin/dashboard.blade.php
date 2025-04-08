@@ -5,7 +5,7 @@
 
     <!-- Header -->
     <div class="text-center mb-5">
-        <h1 class="fw-bold">Halo Admin, {{ Auth::user()->name }}!</h1>
+        <h1 class="fw-bold">Halo AdminZ, {{ Auth::user()->name }}!</h1>
         <p class="text-muted">Ini adalah dashboard untuk admin.</p>
     </div>
 
